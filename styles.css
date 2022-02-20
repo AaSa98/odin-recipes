@@ -1,0 +1,24 @@
+.gerichttitel{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: bisque;
+    color: brown;
+}
+
+.gerichtvorschau{
+    width: 150px;
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.gerichtbild{
+    width: 300px;
+    height: auto;
+    border: 2px darkgray solid;
+}
+
+.gericht{
+    border: 2px darkgray solid;
+    margin-right: 70%;
+}
