@@ -20,5 +20,18 @@
 
 .gericht{
     border: 2px darkgray solid;
-    margin-right: 70%;
+    margin: 5%;
+    background: lightblue;
+    box-sizing: border-box;
+    display: flex;
+    flex: 1;
+}
+
+#inhalt{
+    display: flex;
+    flex: 1 1 auto;
+}
+
+*{
+    font-family: Fira, Verdun, Gill Sans, sans-serif;
 }
